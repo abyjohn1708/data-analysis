@@ -34,4 +34,3 @@ Analysis of Employee Data:
 Conclusion:
 In this analysis of the employee dataset for ABC Company, several insights were derived. The distribution of employees across teams was determined, along with the percentage splitting. The employees were also segregated based on different positions. The most common age group among employees was identified. Additionally, the team and position with the highest salary spending were determined. Finally, the correlation between age and salary was visualized. These findings provide valuable insights into the employee landscape within ABC Company, which can aid in decision-making and resource allocation.
 
-Note: Please replace the file name `'PROJECT.csv.csv'` in the code with the correct file name/path for the dataset you are using.
